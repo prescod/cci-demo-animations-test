@@ -20,7 +20,7 @@
 project = 'CumulusCI Demo'
 copyright = '2020, Salesforce.com'
 author = 'Salesforce.com'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
