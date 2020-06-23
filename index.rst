@@ -33,15 +33,14 @@ Demo 2 shows how to use CumulusCI to retrieve Metadata from a Salesforce org and
 
     <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/prescod/cci-demo-animations-test/master/_static/2_retrieve_changes.cast"></asciinema-player>
 
-
-Demo 3 shows how to customize CumulusCI flows and use CumulusCI for QA.
+Demo 3 shows how to use CCI to manage sample or test data.
 
 .. raw:: html
 
     <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/prescod/cci-demo-animations-test/master/_static/3_populate_data.cast"></asciinema-player>
 
 
-Demo 4 shows how to use CCI to manage sample or test data.
+Demo 4 shows how to customize CumulusCI flows and use CumulusCI for QA.
 
 .. raw:: html
 
