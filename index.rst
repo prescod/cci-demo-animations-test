@@ -1,14 +1,15 @@
-.. CumulusCI Demo documentation master file, created by
-   sphinx-quickstart on Mon Jun 22 17:44:12 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+..  _`Usage Demos`:
 
-Welcome to CumulusCI Demos!
-===========================
+-----------
+Usage Demos
+-----------
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+These screencasts show how to use CumulusCI from a command line.
+
+For a live demo with voiceover, please see 
+Jason Lantz's 
+`Pycon 2020 presentation <https://www.youtube.com/watch?v=XL77lRTVF3g>`_
+which gives more context about CumulusCI from about minute 36 through minute 54.
 
 .. raw:: html
 
@@ -18,38 +19,26 @@ Welcome to CumulusCI Demos!
         href="https://cdnjs.cloudflare.com/ajax/libs/asciinema-player/2.4.1/asciinema-player.min.css" />
     <script src="https://cdn.jsdelivr.net/npm/asciinema-player@2.6.1/resources/public/js/asciinema-player.min.js"></script>
 
-This is the temporary home for these demos until they are integrated with the
-CumulusCI documentation.
-
-Demo 1 shows how to initialize a fresh CumulusCI project:
+This screencast shows how to initialize a fresh CumulusCI project:
 
 .. raw:: html
 
-    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/prescod/cci-demo-animations-test/master/_static/1_setup.cast"></asciinema-player>
+    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/SFDO-Tooling/cci-demo-animations/master/build/1_setup.cast"></asciinema-player>
 
-Demo 2 shows how to use CumulusCI to retrieve Metadata from a Salesforce org and save it in github.
-
-.. raw:: html
-
-    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/prescod/cci-demo-animations-test/master/_static/2_retrieve_changes.cast"></asciinema-player>
-
-Demo 3 shows how to use CCI to manage sample or test data.
+The next one shows how to use CumulusCI to retrieve Metadata from a Salesforce org and save it in github.
 
 .. raw:: html
 
-    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/prescod/cci-demo-animations-test/master/_static/3_populate_data.cast"></asciinema-player>
+    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/SFDO-Tooling/cci-demo-animations/master/build/2_retrieve_changes.cast"></asciinema-player>
 
-
-Demo 4 shows how to customize CumulusCI flows and use CumulusCI for QA.
+The next screencast shows how to use CCI to manage sample or test data.
 
 .. raw:: html
 
-    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/prescod/cci-demo-animations-test/master/_static/4_qa_org.cast"></asciinema-player>
+    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/SFDO-Tooling/cci-demo-animations/master/build/3_populate_data.cast"></asciinema-player>
 
+The final screencast shows how to customize CumulusCI flows and how to use CumulusCI for QA.
 
-Indices and tables
-==================
+.. raw:: html
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/SFDO-Tooling/cci-demo-animations/master/build/4_qa_org.cast"></asciinema-player>
