@@ -44,7 +44,7 @@ Demo 4 shows how to customize CumulusCI flows and use CumulusCI for QA.
 
 .. raw:: html
 
-    <asciinema-player preload="True" poster="npt:0:01" src="https://github.com/prescod/cci-demo-animations-test/blob/master/_static/4_qa_org.cast"></asciinema-player>
+    <asciinema-player preload="True" poster="npt:0:01" src="https://raw.githubusercontent.com/prescod/cci-demo-animations-test/master/_static/4_qa_org.cast"></asciinema-player>
 
 
 Indices and tables
